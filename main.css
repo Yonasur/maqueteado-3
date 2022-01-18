@@ -1,0 +1,96 @@
+.container-fluid {
+  background-color: seagreen;
+  font-family: sans-serif;
+  color: white;
+  padding: 5px;
+  border-bottom: solid;
+  border-color: black;
+  border-width: 10px;
+}
+
+.uno {
+  font-size: 60px;
+  font-weight: bold;
+  display: inline-block;
+  padding-left: 20px;
+}
+
+.img-thumbnail {
+  width: 90px;
+}
+
+.dos {
+  width: 75%;
+  height: 630px;
+  margin-left: 160px;
+  margin-bottom: 0px;
+  margin-top: 20px;
+}
+
+.tres {
+  font-size: 25px;
+  color: crimson;
+  text-decoration: underline;
+}
+
+.listauno {
+  font-size: 23px;
+}
+
+.cuatro {
+  background-color: rgb(30, 169, 173);
+  text-align: center;
+  padding: 20px;
+}
+
+.float {
+  margin-left: 25%;
+}
+
+.cinco {
+  text-align: center;
+  font-size: 25px;
+}
+
+.seis {
+  text-align: center;
+  text-decoration: underline;
+  font-size: 30px;
+}
+.cinco,
+.seis {
+  background-color: rgba(0, 0, 0, 0.781);
+  color: white;
+  padding: 15px;
+}
+
+body {
+  background-color: rgba(169, 169, 169, 0.411);
+}
+
+.farma {
+  text-align: center;
+  color: white;
+  font-size: 35px;
+  font-family: sans-serif;
+  font-weight: bold;
+  padding-top: 10px;
+}
+
+.copy {
+  text-align: center;
+  color: white;
+}
+
+.u {
+  background-color: rgb(185, 117, 233);
+  padding-top: 0px;
+  padding-bottom: 4px;
+}
+
+.desarrollo {
+  background-color: black;
+  color: white;
+  padding: 10px;
+  font-family: monospace;
+}
